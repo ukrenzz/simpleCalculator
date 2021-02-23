@@ -13,7 +13,7 @@ No refresh, based on AJAX, and data parsing using JSON.
 - Easy to use
 - Faster processing
 
-## 🏆Features
+## 🏆 Features
 
 - Available two version, simple multi number operation and simple two number operation
 - Counting process will save at temporary history
@@ -22,7 +22,7 @@ No refresh, based on AJAX, and data parsing using JSON.
 
 
 
-## 💡Tech
+## 💡 Tech
 
 SimpCALC using some library to work properly:
 - [XAMPP] - the most popular PHP development environment
@@ -36,7 +36,7 @@ SimpCALC using some library to work properly:
 And of course SimpCALC itself is open source with a [public repository][git-url]
  on GitHub.
 
-## 🚀Installation and First Running
+## 🚀 Installation and First Running
 
 SimpCALC requires [PHP](https://www.php.net/) v7.x.x+ to run. Or you can use [XAMPP](https://www.apachefriends.org/) v7.3.27+ which full pack of PHP programming.
 
@@ -56,13 +56,13 @@ localhost/simplecalculator
 6. You can adjust your virtual host to statement localhost
 
 
-## 📝License
+## 📝 License
 [![GitHub license](https://img.shields.io/github/license/ukrenzz/simplecalculator)][git-url]
 Distributed under the MIT License. See `LICENSE` for more information.
 
 **SimpCALC  is free forever.**
 
-## 📞Contact Me
+## 📞 Contact Me
 Find me at :
 - [Instagram]
 - [Linked In]
