@@ -1,0 +1,118 @@
+html {
+  scroll-behavior: smooth;
+}
+.navbar-transparent{
+  background: transparent !important;
+  transition: background 850ms;
+}
+.navbar-transparent .navbar-brand:hover{
+  color : #f8f9fa!important;
+}
+.bg-dark{
+  /* transition: background 500ms; */
+}
+.nav-iconed a:hover{
+  color: #0dcaf0!important;
+}
+.first-page{
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center;
+  background-attachment: fixed;
+  background:url('../images/bg-1.jpg');
+  z-index:-1 !important;
+  height: 80vh;
+  padding-top: 10vh;
+  margin-top: -10vh;
+}
+.img-contrast{
+  background: rgba(0,0,0,.5);
+}
+section{
+  z-index: 1!important;
+}
+.first-page .bg-overlay{
+  background: rgba(0, 0, 0, .5);
+  height: 80vh;
+  margin-top: -10vh;
+  position: relative;
+  z-index: 0;
+  top: 0;
+}
+.first-page .container{
+  z-index: 1000;
+}
+.nav-link, .navbar-brand{
+  line-height: 2rem!important;
+}
+.btn-text-light{
+  color: white;
+}
+.btn-contact{
+  background: none;
+  border : 2px solid #0dcaf0;
+  border-radius: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-top: -0.3rem;
+}
+.btn-try{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.about-section{
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: center;
+  background-attachment: fixed;
+  background:url('../images/about-1.jpg');
+  z-index:-1 !important;
+  height: 80vh;
+}
+.about-section > .bg-overlay{
+  background: rgba(0, 0, 0, .6);
+  height: 80vh;
+  position: relative;
+  z-index: 0;
+  top: 0;
+}
+.about-section .box-about{
+  background: rgba(13,202, 240, 0);
+  border-radius: 10px;
+  width: 50% !important;
+}
+.contact-section{
+  min-height: 95vh;
+}
+.icon-contact{
+  font-size: 10rem!important;
+}
+.link-sosmed a:hover{
+  color: #0dcaf0;
+}
+.mail-box input, .mail-box textarea{
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 2px solid #0dcaf0;
+  color: #f8f9fa;
+}
+.mail-box input:focus,.mail-box input:hover, .mail-box textarea:hover, .mail-box textarea:focus{
+  background: #0dcaf0;
+  color: #f8f9fa;
+}
+
+.mail-box textarea{
+  resize: none;
+}
+.footer-section{
+  border-color: #39393a!important;
+}
+
+.author:hover{
+  color: #f8f9fa!important;
+}
+.btn-copy:hover{
+  background: #f8f9fa!important;
+  color: #0dcaf0 !important;
+}

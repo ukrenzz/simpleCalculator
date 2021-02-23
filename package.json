@@ -1,0 +1,23 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "Aplikasi untuk kalkulator sederhana menggunakan php native",
+  "main": "sweetalert.min.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "php",
+    "native"
+  ],
+  "author": "Richy R. Saragih",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "remixicon": "^2.5.0"
+  }
+}
